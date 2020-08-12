@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\学习\\\\study\\\\part-03-module-03\\\\code\\\\fede-task-02\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\学习\\\\study\\\\part-03-module-03\\\\code\\\\fede-task-02\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_659b32e3"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\学习\\\\study\\\\part-03-module-03\\\\code\\\\fede-task-02\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_4e0371e5"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\学习\\\\study\\\\part-03-module-03\\\\code\\\\fede-task-02\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_4e0371e5"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\学习\\\\study\\\\part-03-module-03\\\\code\\\\fede-task-02\\\\realworld-nuxtjs\\\\pages\\\\profile",
+        "_name": "_97d545b6"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\学习\\\\study\\\\part-03-module-03\\\\code\\\\fede-task-02\\\\realworld-nuxtjs\\\\pages\\\\settings",
+        "_name": "_5fd65827"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "D:\\\\学习\\\\study\\\\part-03-module-03\\\\code\\\\fede-task-02\\\\realworld-nuxtjs\\\\pages\\\\editor",
+        "_name": "_65deee71"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\学习\\\\study\\\\part-03-module-03\\\\code\\\\fede-task-02\\\\realworld-nuxtjs\\\\pages\\\\article",
+        "_name": "_ca40bf1c"
+      }
+    ],
+    "_name": "_71adc82e"
+  }
+]
